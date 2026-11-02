@@ -1,4 +1,4 @@
-<p><img src="https://raw.githubusercontent.com/juxnow/.github/main/profile/jux-masthead.png" alt="JUX. A study in juxtaposition." width="100%"></p>
+<p><img src="https://raw.githubusercontent.com/juxnow/.github/main/profile/jux-rose-editorial.jpg" alt="JUX. A study in juxtaposition. Blush lettering over crimson roses and a grain of mint on peach." width="100%"></p>
 
 We’re a creative studio in Philadelphia. We build romantic worlds through photography, styling, and creative direction. In one of our portraits, a figure in leopard print sits among gilded paintings. The room tells as much of the story as the clothes.
 
