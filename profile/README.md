@@ -1,11 +1,11 @@
 <p><img src="https://raw.githubusercontent.com/juxnow/.github/main/profile/jux-rose-editorial.jpg" alt="JUX. A study in juxtaposition. Blush lettering over crimson roses and a grain of mint on peach." width="100%"></p>
 
-JUX is a lifestyle brand and tech company out of Philadelphia. A fashion editorial and a TypeScript library belong under the same roof here. We make both.
+We’re Tony and MJ in Philadelphia. Halston and Liza to each other. Tony styles the clothes and steps into the frame. MJ writes the software and looks damn good doing it. JUX is how we live.
 
-Juxtaposition is how we live. When somebody tells us what we can’t do, shouldn’t do, or won’t pull off, we ask the same question. **Says who?**
+Turn a jacket inside out and you can see how somebody made it. Find the seam, pick out the stitches, change the fit. Why shouldn’t you have that same freedom with the software you live in every day?
 
-MJ ([@villagealchemist](https://github.com/villagealchemist)) sets the technical direction for JUX. JUX is home to MJ’s software work, including [Tubular](https://github.com/juxnow/tubular), a TypeScript library for building tools that AI agents can use.
+[MJ](https://github.com/villagealchemist) comes from the open-source internet, where somebody would hand you the whole engine just so you could see how it ran. It’s why she gives most of what she builds away. You can [look inside Tubular](https://github.com/juxnow/tubular), the TypeScript library she built for people making tools for AI agents.
 
-Our studio builds romantic worlds through photography, styling, and creative direction. [Explore the editorials](https://www.juxnow.com/) or [follow JUX on Instagram](https://www.instagram.com/juxnow/).
+[Step inside the studio](https://www.juxnow.com/) for the photography, styling, and editorials. [Find JUX on Instagram](https://www.instagram.com/juxnow/).
 
 For collaborations and editorial commissions, [write to Tone](mailto:tone@juxnow.com).
